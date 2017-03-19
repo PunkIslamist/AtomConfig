@@ -1,0 +1,8 @@
+# Ignore everything...
+*
+
+#Except those
+!.gitignore
+!config.cson
+!nohup.out
+!styles.less

@@ -1,0 +1,20 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    closeDeletedFileTabs: true
+    telemetryConsent: "no"
+    themes: [
+      "isotope-ui"
+      "gruvbox-plus-syntax"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "c6a534f0-9b37-4f59-a105-6fadec89b8de"
+  "gruvbox-plus-syntax":
+    contrast: "Soft"
+  "isotope-ui":
+    fontFamily: "Ubuntu"
+    lowContrastTooltip: true
+    minimalMode: true
+  welcome:
+    showOnStartup: false
