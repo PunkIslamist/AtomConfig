@@ -12,9 +12,14 @@
     userId: "c6a534f0-9b37-4f59-a105-6fadec89b8de"
   "gruvbox-plus-syntax":
     contrast: "Soft"
+  "highlight-selected":
+    lightTheme: true
   "isotope-ui":
     fontFamily: "Ubuntu"
     lowContrastTooltip: true
     minimalMode: true
+  latex:
+    moveResultToSourceDirectory: false
+    outputDirectory: "out"
   welcome:
     showOnStartup: false
