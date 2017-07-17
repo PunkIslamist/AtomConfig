@@ -18,8 +18,5 @@
     fontFamily: "Ubuntu"
     lowContrastTooltip: true
     minimalMode: true
-  latex:
-    moveResultToSourceDirectory: false
-    outputDirectory: "out"
   welcome:
     showOnStartup: false
