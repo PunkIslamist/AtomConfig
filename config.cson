@@ -7,7 +7,8 @@
       "isotope-ui"
       "gruvbox-plus-syntax"
     ]
-  editor: {}
+  editor:
+    fontSize: 12
   "exception-reporting":
     userId: "c6a534f0-9b37-4f59-a105-6fadec89b8de"
   "gruvbox-plus-syntax":
