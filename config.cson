@@ -7,7 +7,9 @@
       "isotope-ui"
       "gruvbox-plus-syntax"
     ]
-  editor: {}
+  editor:
+    fontFamily: "Source Sans Pro"
+    fontSize: 16
   "exception-reporting":
     userId: "c6a534f0-9b37-4f59-a105-6fadec89b8de"
   "gruvbox-plus-syntax":
@@ -15,8 +17,12 @@
   "highlight-selected":
     lightTheme: true
   "isotope-ui":
-    fontFamily: "Ubuntu"
+    fontFamily: "Roboto"
     lowContrastTooltip: true
     minimalMode: true
+  latex:
+    moveResultToSourceDirectory: false
+    outputDirectory: "out"
+  "linter-ui-default": {}
   welcome:
     showOnStartup: false
