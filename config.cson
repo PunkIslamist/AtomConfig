@@ -10,8 +10,14 @@
   editor:
     fontFamily: "Source Sans Pro"
     fontSize: 16
+    tabLength: 3
   "exception-reporting":
     userId: "c6a534f0-9b37-4f59-a105-6fadec89b8de"
+  "git-plus":
+    remoteInteractions:
+      pullBeforePush: true
+  "gpp-compiler":
+    cppCompilerOptions: "-std=c++14"
   "gruvbox-plus-syntax":
     contrast: "Soft"
   "highlight-selected":
@@ -23,6 +29,16 @@
   latex:
     moveResultToSourceDirectory: false
     outputDirectory: "out"
-  "linter-ui-default": {}
+  "linter-ui-default":
+    panelHeight: 79
+  "split-diff":
+    colors:
+      addedColor: "#22c373"
+      removedColor: "#df1414"
+  "tree-view":
+    squashDirectoryNames: true
   welcome:
     showOnStartup: false
+".js.source":
+  editor:
+    showIndentGuide: true
