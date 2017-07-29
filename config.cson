@@ -11,6 +11,7 @@
     fontFamily: "verdana"
     fontSize: 16
     tabLength: 3
+    tabType: "soft"
   "exception-reporting":
     userId: "c6a534f0-9b37-4f59-a105-6fadec89b8de"
   "git-plus":
@@ -22,10 +23,15 @@
     contrast: "Soft"
   "highlight-selected":
     lightTheme: true
+  "ionide-fsharp":
+    FormatDocument:
+      IndentOnTryWith: true
   "isotope-ui":
     fontFamily: "Roboto"
     lowContrastTooltip: true
     minimalMode: true
+  "keyboard-scroll":
+    linesToScrollSingle: 1
   "linter-ui-default":
     panelHeight: 79
   "split-diff":
