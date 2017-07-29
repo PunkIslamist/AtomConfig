@@ -8,7 +8,7 @@
       "gruvbox-plus-syntax"
     ]
   editor:
-    fontFamily: "Source Sans Pro"
+    fontFamily: "verdana"
     fontSize: 16
     tabLength: 3
   "exception-reporting":
@@ -22,13 +22,12 @@
     contrast: "Soft"
   "highlight-selected":
     lightTheme: true
+  "ionide-fsi":
+    FsiPath: "/usr/bin/fsharpi"
   "isotope-ui":
     fontFamily: "Roboto"
     lowContrastTooltip: true
     minimalMode: true
-  latex:
-    moveResultToSourceDirectory: false
-    outputDirectory: "out"
   "linter-ui-default":
     panelHeight: 79
   "split-diff":
