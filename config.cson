@@ -2,7 +2,7 @@
   core:
     autoHideMenuBar: true
     closeDeletedFileTabs: true
-    telemetryConsent: "no"
+    telemetryConsent: "limited"
     themes: [
       "isotope-ui"
       "gruvbox-plus-syntax"
@@ -22,8 +22,6 @@
     contrast: "Soft"
   "highlight-selected":
     lightTheme: true
-  "ionide-fsi":
-    FsiPath: "/usr/bin/fsharpi"
   "isotope-ui":
     fontFamily: "Roboto"
     lowContrastTooltip: true
